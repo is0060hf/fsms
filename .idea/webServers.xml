@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="594c26cb-92ba-4041-86a6-69303b9c276a" name="本番環境" url="http://sv6156.xserver.jp">
+        <fileTransfer host="sv6156.xserver.jp" port="21" rootFolder="/taylormode.co.jp/public_html/fsms">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

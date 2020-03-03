@@ -1,0 +1,27 @@
+OC.L10N.register(
+    "files_external",
+    {
+    "External storage" : "Ārējā krātuve",
+    "Personal" : "Personīgi",
+    "Grant access" : "Piešķirt pieeju",
+    "Saved" : "Saglabāts",
+    "Username" : "Lietotājvārds",
+    "Password" : "Parole",
+    "Save" : "Saglabāt",
+    "WebDAV" : "WebDAV",
+    "URL" : "URL",
+    "Location" : "Vieta",
+    "ownCloud" : "ownCloud",
+    "Host" : "Resursdators",
+    "Share" : "Dalīties",
+    "<b>Note:</b> " : "<b>Piezīme:</b>",
+    "Name" : "Nosaukums",
+    "Enable encryption" : "Ieslēgt šifrēšanu",
+    "Never" : "Nekad",
+    "External Storage" : "Ārējā krātuve",
+    "Folder name" : "Mapes nosaukums",
+    "Configuration" : "Konfigurācija",
+    "Add storage" : "Pievienot krātuvi",
+    "Delete" : "Dzēst"
+},
+"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);");
