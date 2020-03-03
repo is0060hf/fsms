@@ -17,8 +17,11 @@ $CONFIG = array (
   'mysql.utf8mb4' => true,
   'dbuser' => 'r357_fsms',
   'dbpassword' => 'is0060hf',
-  'logtimezone' => 'UTC',
-  'apps_paths' => 
+  'logdateformat' => 'Y-m-d H:i:s',
+  'logtimezone' => 'Asia/Tokyo',
+  'loglevel' => '1',
+  'logfile' => '/home/r357/taylormode.co.jp/log/fsms/fsms.log',
+  'apps_paths' =>
   array (
     0 => 
     array (
