@@ -21,7 +21,7 @@ $CONFIG = array (
   'logtimezone' => 'Asia/Tokyo',
   'loglevel' => '1',
   'logfile' => '/home/r357/taylormode.co.jp/log/fsms/fsms.log',
-  'apps_paths' =>
+  'apps_paths' => 
   array (
     0 => 
     array (
@@ -37,4 +37,7 @@ $CONFIG = array (
     ),
   ),
   'installed' => true,
+  'mail_domain' => 'taylormode.co.jp',
+  'mail_from_address' => 'info',
+  'mail_smtpmode' => 'php',
 );
