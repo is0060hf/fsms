@@ -136,10 +136,10 @@ if ($_['passwordChangeSupported']) {
 		<label><?php p($l->t('Language'));?></label>
 	</h2>
 	<?php print_unescaped($_['languageSelector']); ?>
-	<?php if (OC_Util::getEditionString() === OC_Util::EDITION_COMMUNITY): ?>
+	<?php /*if (OC_Util::getEditionString() === OC_Util::EDITION_COMMUNITY): */?><!--
 	<a href="https://www.transifex.com/projects/p/owncloud/"
 	  target="_blank" rel="noreferrer">
-		<em><?php p($l->t('Help translate'));?></em>
+		<em><?php /*p($l->t('Help translate'));*/?></em>
 	</a>
-	<?php endif; ?>
+	--><?php /*endif; */?>
 </form>

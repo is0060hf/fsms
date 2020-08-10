@@ -113,7 +113,7 @@ class OC_Theme {
 	 * @return string slogan
 	 */
 	public function getSlogan() {
-		return 'プロが使っても恥ずかしくないファイル共有システム';
+		return '仕事でもプライベートでも丁度いいファイル共有を';
 	}
 
 	/**

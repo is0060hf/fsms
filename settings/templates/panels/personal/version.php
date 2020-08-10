@@ -5,5 +5,5 @@
 			<?php p($theme->getTitle()); ?>
 		</a> <?php p(OC_Util::getHumanVersion()) ?>
 	</p>
-	<p><?php include('settings.development.notice.php'); ?></p>
+<!--	<p>--><?php //include('settings.development.notice.php'); ?><!--</p>-->
 </div>
